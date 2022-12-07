@@ -1,5 +1,5 @@
 {% set name = "sas7bdat-converter" %}
-{% set version = "1.2.0" %}
+{% set version = "1.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sas7bdat_converter-{{ version }}.tar.gz
-  sha256: 255ef930b786f9ec125f31ae2bc1d7b33b7301bcd3a3a58a19de61c329dcce89
+  sha256: 4a81794935e429918b9d7209490530bdbbbd5d6d2ce27cc237037c009b2d6ed4
 
 build:
   noarch: python
@@ -18,7 +18,7 @@ requirements:
   host:
     - python >=3.7,<3.11
     - pip
-    - poetry >=1.1.15
+    - poetry-core >=1.3
   run:
     - python >=3.7,<3.11
     - pandas >=1.2.0
