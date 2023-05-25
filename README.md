@@ -1,11 +1,11 @@
-About sas7bdat-converter
-========================
+About sas7bdat-converter-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sas7bdat-converter-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sanders41/sas7bdat-converter
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sas7bdat-converter-feedstock/blob/main/LICENSE.txt)
 
 Summary: Convert sas7bdat and xport files into other formats such as parquet, csv, json, and Excel
 
