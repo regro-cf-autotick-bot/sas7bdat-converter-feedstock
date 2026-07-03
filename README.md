@@ -7,7 +7,11 @@ Home: https://github.com/sanders41/sas7bdat-converter
 
 Package license: MIT
 
-Summary: Convert sas7bdat and xport files into other formats such as parquet, csv, json, and Excel
+Summary: Convert sas7bdat and xport files into other formats
+
+Documentation: https://github.com/sanders41/sas7bdat-converter
+
+Convert sas7bdat and xport files into other formats
 
 Current build status
 ====================
